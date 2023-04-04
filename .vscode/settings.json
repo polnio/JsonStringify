@@ -1,0 +1,5 @@
+{
+  "FSharp.suggestGitignore": false,
+  "cSpell.words": ["jsonstringify", "Stringifiable", "Stringifier"],
+  "java.compile.nullAnalysis.mode": "automatic"
+}
